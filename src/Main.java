@@ -32,7 +32,7 @@ public class Main {
 
         // Задание 2
         System.out.println("\nВведите первую строку (a):");
-        scanner.nextLine(); // Очистка буфера после nextInt
+        scanner.nextLine();
         String str1 = scanner.nextLine();
 
         System.out.println("Введите вторую строку (b):");
